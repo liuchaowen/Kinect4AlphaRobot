@@ -8,7 +8,7 @@
 项目通过Kinect捕捉人体动作数据，通过蓝牙模块控制 Alpha Robot （优必选阿尔法机器人1S）
 
 ### 演示视频
-[https://pan.baidu.com/s/1i5JyiUx](https://pan.baidu.com/s/1i5JyiUx)
+[https://share.weiyun.com/IhiifkW6](https://share.weiyun.com/IhiifkW6)
 
 ### 项目技术点
 * 蓝牙通信串口开发（项目可实现的基础）
